@@ -1,4 +1,4 @@
-
+from date_create import name_data, surname_data, phone_data, adres_data
 
 def input_data():
     name = name_data ()
